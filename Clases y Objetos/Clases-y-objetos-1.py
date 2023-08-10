@@ -13,4 +13,5 @@ celular1 = Celular()
 print(celular1.marca)
 print(celular1.modelo)
 print(celular1.camara)
-print(celular1.modelo)
+print(celular1.camara)
+
