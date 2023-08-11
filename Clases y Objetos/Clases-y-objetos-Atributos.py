@@ -13,9 +13,3 @@ class Celular():
 
 celular1 = Celular("Samsung","J2 Prime", "28MP")
 print(celular1)
-celular2 = Celular("phone","12 pro", "32MP")
-print(celular2)
-celular3 = Celular("Xiaomi","Poco x3 pro", "48MP")
-print(celular3)
-celular4 = Celular("Xiaoi","Pwdqpro", "dqwP")
-print(celular4)  
