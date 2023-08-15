@@ -14,7 +14,7 @@ class CuentaBancaria:
     @saldo.setter
     def saldo(self, nuevo_saldo):
         if nuevo_saldo >= 0:
-            self.__saldo = nuevo_saldo
+            self.__saldo = nuevo_saldocd
         else:
             print("Saldo no válido")
 
